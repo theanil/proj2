@@ -158,15 +158,17 @@
     <icon src="logo.png"   gap:platform="android"    gap:qualifier="xhdpi" />
     
     <!-- Define app splash screen for each platform. -->
+
+    <!--
     <gap:splash src="images/BLUVISITORsplash.png"       gap:platform="android" gap:qualifier="port-ldpi" />
     <gap:splash src="images/BLUVISITORsplash.png"       gap:platform="android" gap:qualifier="port-mdpi" />
     <gap:splash src="images/BLUVISITORsplash.png"       gap:platform="android" gap:qualifier="port-hdpi" />
     <gap:splash src="images/BLUVISITORsplash.png"       gap:platform="android" gap:qualifier="port-xhdpi" />
-   
+    
 
     <splash src="images/BLUVISITORsplash.png" />
 
- 
+ -->
     
     <access origin="*"/>
     <access origin="tel:*" launch-external="yes" />
