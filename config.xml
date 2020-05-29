@@ -166,7 +166,7 @@
     <gap:splash src="images/splashscreen-2.png"       gap:platform="android" gap:qualifier="port-xhdpi" />
     -->
 
-    <splash src="images/splashscreen-2.png" />
+    <splash src="splashscreen-2.png" />
 
  
     
