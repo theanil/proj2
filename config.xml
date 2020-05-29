@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<widget id="in.blu.proj2" version="1.0.1" versionCode="1" xmlns="http://www.w3.org/ns/widgets" xmlns:android="http://schemas.android.com/apk/res/android" xmlns:gap="http://phonegap.com/ns/1.0">
+<widget id="in.blu.demoshop" version="1.0.1" versionCode="1" xmlns="http://www.w3.org/ns/widgets" xmlns:android="http://schemas.android.com/apk/res/android" xmlns:gap="http://phonegap.com/ns/1.0">
 
-    <name>Proj2</name>
-    <description>Project 2</description>
+    <name>E-shop Demo</name>
+    <description>E-shop Demo</description>
 
     <author href="http://phonegap.com" email="support@phonegap.com">Anil Team</author>
 
@@ -159,16 +159,16 @@
     
     <!-- Define app splash screen for each platform. -->
 
-    <!--
-    <gap:splash src="images/BLUVISITORsplash.png"       gap:platform="android" gap:qualifier="port-ldpi" />
-    <gap:splash src="images/BLUVISITORsplash.png"       gap:platform="android" gap:qualifier="port-mdpi" />
-    <gap:splash src="images/BLUVISITORsplash.png"       gap:platform="android" gap:qualifier="port-hdpi" />
-    <gap:splash src="images/BLUVISITORsplash.png"       gap:platform="android" gap:qualifier="port-xhdpi" />
+    
+    <gap:splash src="images/splashscreen-2.png"       gap:platform="android" gap:qualifier="port-ldpi" />
+    <gap:splash src="images/splashscreen-2.png"       gap:platform="android" gap:qualifier="port-mdpi" />
+    <gap:splash src="images/splashscreen-2.png"       gap:platform="android" gap:qualifier="port-hdpi" />
+    <gap:splash src="images/splashscreen-2.png"       gap:platform="android" gap:qualifier="port-xhdpi" />
     
 
-    <splash src="images/BLUVISITORsplash.png" />
+    <splash src="images/splashscreen-2.png" />
 
- -->
+ 
     
     <access origin="*"/>
     <access origin="tel:*" launch-external="yes" />
